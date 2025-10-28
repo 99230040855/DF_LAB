@@ -124,7 +124,6 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <img width="1162" height="661" alt="Screenshot 2025-09-01 145627" src="https://github.com/user-attachments/assets/a6771875-0d00-4dfa-a7af-d9fea7221c0d" />
-
 <br>
 <br>
 
@@ -133,7 +132,7 @@ Windows: Download the executable from the official CGSecurity website.
 <br>
 <br>
 <p align="center">
-  <img width="1101" height="637" alt="image" src="https://github.com/user-attachments/assets/bfcaefe2-abce-44ee-b6e6-b9e9fd25bcc4" />
+ 
 
 </p>
 <br>
