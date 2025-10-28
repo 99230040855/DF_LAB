@@ -8,18 +8,19 @@
 - Gmail: Open the email, click the three dots (⋮), and select Show original.
 <br>
 <br>
-<img width="1919" height="1014" alt="Screenshot 2025-09-01 152211" src="https://github.com/user-attachments/assets/6c0164e1-ffd1-4e03-b610-2c0d34f26f23" />
-
+<img width="1470" height="836" alt="Screenshot 2025-10-28 at 11 33 48 AM" src="https://github.com/user-attachments/assets/01ab902a-f667-496e-9314-dd8e15ef7b1c" />
 
 <br>
 <br>
-<img width="1919" height="1025" alt="Screenshot 2025-09-01 152302" src="https://github.com/user-attachments/assets/d8e0e95d-f7e4-4813-ab10-db7edc052a27" />
+<img width="1454" height="532" alt="Screenshot 2025-10-28 at 11 34 55 AM" src="https://github.com/user-attachments/assets/ea7a8ea5-94cc-46d2-ae29-2400c47eb4e8" />
+
 
 
 - Select all the text in the header and copy it.
 
 <br>
-<img width="1443" height="910" alt="Screenshot 2025-09-01 152317" src="https://github.com/user-attachments/assets/a7038732-8c47-4062-8636-bb01f05657c7" />
+<img width="1133" height="806" alt="Screenshot 2025-10-28 at 11 35 18 AM" src="https://github.com/user-attachments/assets/e49dc3dc-93a9-4858-977e-58da0a5177eb" />
+
 
 <br>
 <br>
